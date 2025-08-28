@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1450ac5b-d166-4fb3-82d3-37fead291851" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="cdi.beans_1_1" />
+        <option value="Arquillian JUnit Test Class" />
+        <option value="TypeScript File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2asXWNOhIogFcBNaqC2auILRSvs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "Arquillian JUnit4",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4": "",
+    "jdk.selected.JAVA_MODULE": "11",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/user/Desktop/bookstore-back/src/main/resources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "ts.external.directory.path": "/Users/user/Desktop/bookstore-front/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "h2"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.pluralsight.bookstore.rest" />
+      <recent name="com.pluralsight.bookstore.util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/../bookstore-front/src/app" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/META-INF" />
+      <recent name="$PROJECT_DIR$/../bookstore-front/src/app" />
+      <recent name="$PROJECT_DIR$/../bookstore-front/src/app/service" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.pluralsight.bookstore.rest" />
+      <recent name="com.pluralsight.bookstore.repository" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BookRepositoryTest" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <module name="bookstore-back" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.bookstore.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pluralsight.bookstore.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.bookstore.repository.BookRepositoryTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.22-corretto-11.0.22-4caba194b151-396cc1b2" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1450ac5b-d166-4fb3-82d3-37fead291851" name="Changes" comment="" />
+      <created>1705108295073</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705108295073</updated>
+      <workItem from="1705108300015" duration="353000" />
+      <workItem from="1705108779802" duration="3086000" />
+      <workItem from="1705177931172" duration="1910000" />
+      <workItem from="1705179867365" duration="7183000" />
+      <workItem from="1705272749194" duration="4896000" />
+      <workItem from="1705294877048" duration="1939000" />
+      <workItem from="1708360528376" duration="19275000" />
+      <workItem from="1708398236768" duration="9066000" />
+      <workItem from="1708408419547" duration="2620000" />
+      <workItem from="1708411284949" duration="798000" />
+      <workItem from="1708464414035" duration="12639000" />
+      <workItem from="1708525762807" duration="6730000" />
+      <workItem from="1708611143735" duration="6901000" />
+      <workItem from="1708628498513" duration="1281000" />
+      <workItem from="1708636991157" duration="1621000" />
+      <workItem from="1708654518710" duration="596000" />
+      <workItem from="1708658653483" duration="4023000" />
+      <workItem from="1708663923722" duration="15000" />
+      <workItem from="1708664259120" duration="5004000" />
+      <workItem from="1708738611433" duration="3254000" />
+      <workItem from="1708742774481" duration="10482000" />
+      <workItem from="1708799033413" duration="7902000" />
+      <workItem from="1708810394200" duration="343000" />
+      <workItem from="1708810782308" duration="15887000" />
+      <workItem from="1708897380873" duration="4044000" />
+      <workItem from="1708902385271" duration="42000" />
+      <workItem from="1708902486408" duration="3592000" />
+      <workItem from="1708912430269" duration="2790000" />
+      <workItem from="1708915578516" duration="10271000" />
+      <workItem from="1709519178144" duration="2263000" />
+      <workItem from="1709523326272" duration="3164000" />
+      <workItem from="1709526541613" duration="11601000" />
+      <workItem from="1709593653691" duration="8051000" />
+      <workItem from="1709604145320" duration="1188000" />
+      <workItem from="1709605363962" duration="2430000" />
+      <workItem from="1709610709908" duration="12198000" />
+      <workItem from="1709694952078" duration="7439000" />
+      <workItem from="1709740199115" duration="6088000" />
+      <workItem from="1710016678352" duration="6855000" />
+      <workItem from="1710027771733" duration="11565000" />
+      <workItem from="1710126553241" duration="4324000" />
+      <workItem from="1710134156597" duration="1582000" />
+      <workItem from="1710626103633" duration="145000" />
+      <workItem from="1710626545532" duration="348000" />
+      <workItem from="1710627565148" duration="220000" />
+      <workItem from="1710627805607" duration="508000" />
+      <workItem from="1710628433468" duration="83000" />
+      <workItem from="1710628734268" duration="226000" />
+      <workItem from="1710638478586" duration="492000" />
+      <workItem from="1710639099618" duration="928000" />
+      <workItem from="1710640381784" duration="38000" />
+      <workItem from="1710640907993" duration="9000" />
+      <workItem from="1710643168718" duration="65000" />
+      <workItem from="1710643273190" duration="43000" />
+      <workItem from="1710643692924" duration="306000" />
+      <workItem from="1710710673413" duration="25000" />
+      <workItem from="1710717284856" duration="19000" />
+      <workItem from="1710717319743" duration="62000" />
+      <workItem from="1710717902254" duration="132000" />
+      <workItem from="1710723213623" duration="59000" />
+      <workItem from="1710723449966" duration="30000" />
+      <workItem from="1710724705355" duration="30000" />
+      <workItem from="1710802810132" duration="21000" />
+      <workItem from="1710804066290" duration="159000" />
+      <workItem from="1710804994354" duration="5113000" />
+      <workItem from="1710814729301" duration="447000" />
+      <workItem from="1710893691475" duration="9000" />
+      <workItem from="1710965885032" duration="7141000" />
+      <workItem from="1711033044889" duration="429000" />
+      <workItem from="1711048585168" duration="1808000" />
+      <workItem from="1711060408291" duration="36000" />
+      <workItem from="1711076841973" duration="45000" />
+      <workItem from="1711077082082" duration="3690000" />
+      <workItem from="1711081962815" duration="1923000" />
+      <workItem from="1711128278131" duration="5847000" />
+      <workItem from="1711721968446" duration="1605000" />
+      <workItem from="1736650526519" duration="716000" />
+      <workItem from="1739804154386" duration="6942000" />
+      <workItem from="1739815372260" duration="1487000" />
+      <workItem from="1739817109033" duration="273000" />
+      <workItem from="1739930239128" duration="1384000" />
+      <workItem from="1739933807948" duration="2330000" />
+      <workItem from="1740508460675" duration="450000" />
+      <workItem from="1747322801481" duration="12309000" />
+      <workItem from="1747408170290" duration="4294000" />
+      <workItem from="1756318133571" duration="446000" />
+      <workItem from="1756319519334" duration="1813000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
